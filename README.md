@@ -1,6 +1,6 @@
 # TSignRecognition_VReddy
 
-## This is the GitHub Repository for the Traffic Sign Recognition IIOT assignemnt.
+## This is the GitHub Repository for the Traffic Sign Recognition.
 
 Please find the scripts used to make the report under the *'P1_ModelCreation.ipynb'* and *'P2_TestingModel.ipynb'* python notebook scripts.
 
